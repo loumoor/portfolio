@@ -10,11 +10,11 @@
 
 *Celles que tu reconnais, pas celles que tu devrais avoir. La référence suffit, par ex. TELEDE-3, avec trois mots d'intitulé.*
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. CAMPPETRMAGM-3
+2. CAMPTERRGEOL-3
+3. INTRGEOLALPI-2
+4. PETRMAGMMET-2
+5. CAMPSTRASEDI-1
 
 ---
 
@@ -24,9 +24,9 @@
 
 | Compétence (réf. + intitulé) | La preuve (quoi, quand, sous quelle forme) | Ce que j'ai décidé (un choix, et pourquoi) | Écrit, audio, images, etc. (où la retrouver, ou perdue) | 
 |---|---|---|---|
-| Compétence 1 |  |  |  |
-| Compétence 2  |  |  |  |
-|  Compétence 3 |  |  |  |
+| CAMPPETRMAGM-3| Carnet de terrain, prise de note, mai 2026 | Cursus | Carnet de terrain  |  
+| CAMPTERRGEOL-3| Carnet de terrain, prise de note, mai 2026| Cursus | Carnet de terrain |
+|  Compétence 3 | Carnet de terrain, prise de note, mai 2026 | Cursus | Carnet de terrain |
 |  Compétence 4 (hors cursus) |  |  |  |
 ---
 
